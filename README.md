@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi there, I'm Syed Adnan Ahmed 👋
 
-<!--
-**syedadnan-7/syedadnan-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Tech Computer Science Graduate | Software & Technology Professional
 
-Here are some ideas to get you started:
+I am an M.Tech Computer Science graduate with a strong interest in Software Development, Machine Learning, Artificial Intelligence, Data Analysis, and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical software solutions, exploring intelligent systems, and continuously improving my technical skills through projects, internships, and research.
+
+---
+
+## 🎓 Education
+
+- 🎓 M.Tech in Computer Science & Engineering
+- 🎓 B.E. in Computer Science & Engineering
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+
+### Web Technologies
+- HTML
+- CSS
+- Flask
+
+### Database
+- SQL
+- MySQL
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Artificial Intelligence
+- Support Vector Machine (SVM)
+- Data Analysis
+
+---
+
+## 🚀 Featured Projects
+
+### Crime Analysis and Prediction System Using Machine Learning
+
+- Machine Learning based Crime Prediction
+- Flask Web Application
+- MySQL Database
+- HTML, CSS & JavaScript
+- Support Vector Machine (SVM)
+
+---
+
+### IoT Based Solar Panel Sun Tracking Dual Axis with Weather Sensor
+
+- IoT
+- Embedded Systems
+- Sensors
+- Bluetooth Communication
+
+---
+
+## 📚 Research Publications
+
+### Tourist Behaviour Prediction with Machine Learning
+
+Published in IRJMETS
+
+### An Intelligent AI-Driven Decision Support Framework for Advanced Crime Prediction Using Support Vector Machine
+
+Published in JETIR
+
+---
+
+## 💼 Internship Experience
+
+### Software Engineering Intern
+Zenexis Solutions Pvt. Ltd.
+
+### Data Science & RPA Intern
+EasiliTech
+
+---
+
+## 🏆 Certifications
+
+- Python Programming
+- Data Science & RPA
+- Intelligent Systems Workshop
+- IEEE RoboTech Quest Participation
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- 🌐 Portfolio: https://syedadnan-7.github.io/syedadnan-portfolio/
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
